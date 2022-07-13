@@ -10,7 +10,7 @@
 ) 
   - [Vulnerability Management](https://github.com/TGORE/LAB-URL) 
 - <b>Azure Cloud</b>
-  - [Configuring Microsoft Sentinel to view live cyber attacks](https://github.com/TGORE/LAB-URL)
+  - [Configuring Microsoft Sentinel to view live cyber attacks](https://github.com/TGORE/Azure-SIEM)
   
 
 <h2>Used Cybersecurity Resources</h2>
