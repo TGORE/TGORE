@@ -4,7 +4,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Risk Management </b>
-  - [Assessing Cybersecurity Risk](https://github.com/TGORE/LAB-URL)
+  - [Assessing Cybersecurity Risk](https://github.com/TGORE/AssessingRisk)
 - <b>Threats and Vulnerabilites </b>
   - [Analyzing Reconnaissance Threats to Computing and Network Environments](https://github.com/TGORE/LAB-URL) 
   - [Vulnerability Management](https://github.com/TGORE/LAB-URL) 
