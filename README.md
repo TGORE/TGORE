@@ -8,9 +8,10 @@
 - <b>Threats and Vulnerabilites </b>
   - [Analyzing Reconnaissance Threats to Computing and Network Environments](https://github.com/TGORE/Threat-Analysis
 ) 
-  - [Vulnerability Management](https://github.com/TGORE/LAB-URL) 
+  - [Vulnerability Management](https://github.com/TGORE/Vulnerability-Basic) 
 - <b>Azure Cloud</b>
   - [Configuring Microsoft Sentinel to view live cyber attacks](https://github.com/TGORE/Azure-SIEM)
+  - [Kusto Query Language (KQL)](https://github.com/TGORE/KQL-Union)
   
 
 <h2>Used Cybersecurity Resources</h2>
