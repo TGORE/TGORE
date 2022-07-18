@@ -6,7 +6,7 @@
 - <b>Risk Management </b>
   - [Assessing Cybersecurity Risk](https://github.com/TGORE/AssessingRisk)
 - <b>Threats and Vulnerabilites </b>
-  - [Analyzing Reconnaissance Threats to Computing and Network Environments](https://github.com/TGORE/Threat-Analysis
+  - [Analyzing Reconnaissance Threats to Computing and Network Environments](https://github.com/TGORE/Threat-Analysis)
   - [Analyzing Attacks on Computing and Network Environments](https://github.com/TGORE/aacne
 ) 
   - [Vulnerability Management](https://github.com/TGORE/Vulnerability-Basic) 
