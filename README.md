@@ -18,6 +18,7 @@
 
 <h2>Used Cybersecurity Resources</h2>
 
+- Home Lab (Kali Linux, Windows 10/2019 Server VMs) | Azure Portal 
 - [Linkedln Learning ](https://www.linkedin.com/learning/?trk=nav_neptune_learning&)
 - [CertNexus](https://certnexus.learnondemand.net/User/Login?ReturnUrl=%2F)
 - [YouTube](https://www.youtube.com/)
