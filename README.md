@@ -22,6 +22,7 @@
 - [Linkedln Learning ](https://www.linkedin.com/learning/?trk=nav_neptune_learning&)
 - [CertNexus](https://certnexus.learnondemand.net/User/Login?ReturnUrl=%2F)
 - [YouTube](https://www.youtube.com/)
+- Microsoft Training and Documentation
 
 
 <h2> 🔭 I’m currently working on: </h2>
