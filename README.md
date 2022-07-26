@@ -25,7 +25,7 @@
 
 
 <h2> 🔭 I’m currently working on: </h2>
--Cybersecurity First Responder Certification along with assoicated projects
+-AZ-500 Security Technologies Certification 
 
 <h2> 🤳 Connect with me:</h2>
 
