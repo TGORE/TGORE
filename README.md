@@ -9,11 +9,9 @@
   - [Assessing Cybersecurity Risk](https://github.com/TGORE/AssessingRisk)
 - <b>Threats and Vulnerabilites </b>
   - [Analyzing Reconnaissance Threats to Computing and Network Environments](https://github.com/TGORE/Threat-Analysis)
+  - [Windows Event Log Analysis](https://github.com/TGORE/wla)
   - [Analyzing Attacks on Computing and Network Environments](https://github.com/TGORE/aacne
 ) 
-
-- [Windows Event Log Analysis](https://github.com/TGORE/wla)
-
   - [Vulnerability Management](https://github.com/TGORE/Vulnerability-Basic) 
 - <b>Azure Cloud</b>
   - [Configuring Microsoft Sentinel to view live cyber attacks](https://github.com/TGORE/Azure-SIEM)
