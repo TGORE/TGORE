@@ -30,7 +30,7 @@
 
 
 <h2> 🔭 I’m currently working on: </h2>
--AZ-500 Security Technologies Certification 
+-AZ-500 Microsoft Azure Security Certification 
 
 <h2> 🤳 Connect with me:</h2>
 
