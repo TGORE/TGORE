@@ -17,7 +17,7 @@
   - [Managing Azure Active Directory](https://github.com/TGORE/aad)
   - [Configuring Microsoft Sentinel to view live cyber attacks](https://github.com/TGORE/Azure-SIEM)
   - [Kusto Query Language (KQL)](https://github.com/TGORE/KQL-Union)
-  - [Configure and Deploy Azure Firewall](https://github.com/TGORE/fw)
+  - [Configuring and Deploying Azure Firewall](https://github.com/TGORE/fw)
   
 
 <h2>Used Cybersecurity Resources</h2>
