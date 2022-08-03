@@ -1,7 +1,7 @@
 <h1>Hi, I'm Tyler! <br/> <a href="https://www.linkedin.com/in/www.linkedin.com/in/tyler-gore-a071a7153
 /">Network SecurityProfessional</a></h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Cyber Security and Cloud Projects:</h2>
 
 - <b>Identity and Access Management </b>
   - [Active Directory Lab](https://github.com/TGORE/AD)
