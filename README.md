@@ -1,5 +1,5 @@
 <h1>Hi, I'm Tyler! <br/> <a href="https://www.linkedin.com/in/www.linkedin.com/in/tyler-gore-a071a7153
-/">Network SecurityProfessional</a></h1>
+/">Network Security Professional</a></h1>
 
 <h2>👨‍💻 Cyber Security and Cloud Projects:</h2>
 
