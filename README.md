@@ -14,7 +14,8 @@
 ) 
   - [Vulnerability Management](https://github.com/TGORE/Vulnerability-Basic) 
 - <b>Azure Cloud</b>
-  - [Managing Azure Active Directory](https://github.com/TGORE/aad)
+  - [Managing Azure Active Directory](https://github.com/TGORE/aadsa)
+  - [Managing Azure Active Directory Secure Access](https://github.com/TGORE/aad)
   - [Configuring Microsoft Sentinel to view live cyber attacks](https://github.com/TGORE/Azure-SIEM)
   - [Kusto Query Language (KQL)](https://github.com/TGORE/KQL-Union)
   - [Configuring and Deploying Azure Firewall](https://github.com/TGORE/fw)
