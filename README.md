@@ -16,7 +16,7 @@
 - <b>Azure Cloud</b>
   - [Managing Azure Active Directory](https://github.com/TGORE/aad)
   - [Managing Azure Active Directory Secure Access](https://github.com/TGORE/aadsa)
-  - [Implementing platform protection (FW](https://github.com/TGORE/IPP)
+  - [Implementing platform protection](https://github.com/TGORE/IPP)
   - [Configuring Microsoft Sentinel to view live cyber attacks](https://github.com/TGORE/Azure-SIEM)
   - [Kusto Query Language (KQL)](https://github.com/TGORE/KQL-Union)
   - [Configuring and Deploying Azure Firewall](https://github.com/TGORE/fw)
